@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.13.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ntkvu/ninja-ui-vibrant-syntax-vscode.git"
+    },
     "categories": [
         "Themes"
     ],
