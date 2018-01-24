@@ -1,6 +1,5 @@
-# README
-Ninja UI Vibrant Theme
+# Ninja UI Vibrant Theme
 
-![Screenshot](images/sample.png)
+![](https://raw.githubusercontent.com/ntkvu/ninja-ui-vibrant-syntax-vscode/master/images/sample.png)
 
 **Enjoy!**
