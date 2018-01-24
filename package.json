@@ -1,0 +1,27 @@
+{
+    "name": "ninja-ui-vibrant",
+    "displayName": "ninja-ui-vibrant",
+    "description": "Ninja UI Vibrant Syntax Theme",
+    "version": "0.2.4",
+    "publisher": "ntkvu",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ninja Ui Vibrant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ninja Ui Vibrant-color-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "6cc6ea33-3146-4df4-bf39-ed737a8a63ed",
+        "publisherId": "cc28d1f6-92ab-41a8-9a8f-f02a8f171889",
+        "publisherDisplayName": "ntkvu"
+    }
+}
