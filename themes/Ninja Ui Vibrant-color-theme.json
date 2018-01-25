@@ -1,5 +1,5 @@
 {
-  "name": "One Dark Vivid Alt",
+  "name": "Ninja Ui Vibrant",
   "type": "dark",
   "colors": {
     "activityBar.background": "#1D252C",
@@ -7,7 +7,7 @@
     "activityBar.dropBackground": "#333F4A",
     "activityBar.foreground": "#fff",
     "activityBarBadge.background": "#11a5ff",
-    "activityBarBadge.foreground": "#fff",
+    "activityBarBadge.foreground": "#000",
     "badge.background": "#11a5ff",
     "badge.foreground": "#000",
     "button.background": "#1D252C",
@@ -1089,14 +1089,14 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#57B6C2"
+        "foreground": "#2cc7da"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#57B6C2"
+        "foreground": "#2cc7da"
       }
     },
     {
