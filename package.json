@@ -2,7 +2,7 @@
     "name": "ninja-ui-vibrant",
     "displayName": "ninja-ui-vibrant",
     "description": "Ninja UI Vibrant Syntax Theme",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "publisher": "ntkvu",
     "engines": {
         "vscode": "^1.13.0"
